@@ -1,8 +1,31 @@
-Folder Tugas:
--Api
--ReduxSaga
--SagaView
--UserView
+# FOLDER TUGAS (Api,ReduxSaga,SagaView,UserView)
+
+# Display Product Category
+![ProductCategory-display](https://user-images.githubusercontent.com/104245694/229000416-22b6b182-f660-4f42-a25a-f0d1c14d54c3.png)
+
+# Display Add Product Category
+![Add-ProductCategory](https://user-images.githubusercontent.com/104245694/229000488-3c2345d4-0064-4a96-9f0c-33b378001654.png)
+
+# Display After Add Product Category
+![ProductCategoryAfterAdd](https://user-images.githubusercontent.com/104245694/229000506-038c1f27-e683-4848-853b-c919a8a94937.png)
+
+# Display Edit Product Category
+![ProductCategoryEdit](https://user-images.githubusercontent.com/104245694/229000555-aa03fdfe-89cf-42f2-803b-a2532fcfc50d.png)
+
+# Display After Product Category
+![ProductCategoryAfterEditpng](https://user-images.githubusercontent.com/104245694/229000613-f60fc3fb-3fbb-4f89-96e9-3ba255da9600.png)
+
+# Display Delete Product Category
+![ProductCategoryDelete](https://user-images.githubusercontent.com/104245694/229000657-14f8e345-0bfe-40d7-9712-7e7d703c25e0.png)
+
+# Display After Delete Product Category
+![ProductCategoryAfterDelete](https://user-images.githubusercontent.com/104245694/229000698-e2b4e302-1136-4d94-baf6-de92ca800be6.png)
+
+# Display Dev-Tools
+![DevTool-ProdCategory](https://user-images.githubusercontent.com/104245694/229000781-67810ef9-92ee-41c8-8a98-cd16e8297ea4.png)
+
+
+
 
 
 # Getting Started with Create React App
