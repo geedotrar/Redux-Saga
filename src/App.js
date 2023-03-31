@@ -1,23 +1,26 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import Route from "./Route";
+// import Testing3 from "./Testing3";
+// import Testing from "./Testing";
+// import Employee from "./Employee";
+// import Parent from "./ParentChild/Parent";
+// import ParentClass from "./ClassParentChild/ParentClass";
+// import CounterArrow from "./CounterArrow";
+// import Counter from "./Counter";
+// import CounterHook from "./CounterHook";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Route></Route>
+      {/* <Counter></Counter>
+      <CounterArrow></CounterArrow>
+      <CounterHook></CounterHook> */}
+      {/* <Employee></Employee> */}
+      {/* <Parent></Parent> */}
+      {/* <ParentClass> </ParentClass> */}
+      {/* <Testing></Testing> */}
+      {/* <Testing3></Testing3> */}
     </div>
   );
 }
